@@ -1,11 +1,11 @@
 # Vcard-DIY
  A project to create your Vcard device
 
-==================
+-------
 
 # &#127467;&#127479; Français
 ### Requis
--------
+
 1. Une carte en plastique, bois ou ce que vous voulez. Vous pouvez imprimer le modele STL fournit dans le dossier STL.
 Le format est de 85 x 55mm.
 2. Un etiquette NFC-Tag 215 programmable (vous pouvez trouver ca sur amazon facilement)
@@ -13,7 +13,7 @@ Le format est de 85 x 55mm.
 4. Un hebergement web pour heberger votre VCard numerique
 
 ### Pas à pas
--------
+
 Imprimez votre carte en 3D. Conseil: en cours d'impression collez votre etiquette et laissez l'imprimante la recouvrir.
 
 Ouvrir le dossier www/
@@ -40,17 +40,17 @@ Approche votre carte NFC, et cliquez sur Ecrire
 Maintenant, prenez voytre smartphone et verifier que le fonctionnement de votre carte.
 
 ### Personnalisation
--------
+
 Libre à vous de modifier le code à votre convenance.
 
 J'ai choisi de faire une page html de base (blocs/bootstap/jquery), mais vous pouvez personnaliser facilement.
 
-
+-------
 
 # &#127482;&#127480; English version
 
 ### Requirements
--------
+
 1. A card in plastic or wood or what you want. You can print the STL model provided in the STL folder.
 The size is 85 x 55mm.
 2. A programmable NFC-Tag 215 (you can find this on amazon easily)
@@ -58,7 +58,7 @@ The size is 85 x 55mm.
 4. A web hosting to host your digital VCard
 
 ### Step by step
--------
+
 Print your card in 3D. Tip: while printing, stick your label and let the printer cover it.
 
 Open the www/ folder
@@ -85,14 +85,14 @@ Approach your NFC card, and click on Write
 Now, take your smartphone and check that your card is working.
 
 ### Customization
--------
+
 Feel free to modify the code as you wish.
 
 I chose to make a basic html page (blocs/bootstap/jquery), but you can easily customize.
 
-
-## Donation
 -------
+## Donation
+
 author: Delimard Software/ <support@delimard.fr>
 
 <a href="https://www.buymeacoffee.com/delimard" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
