@@ -9,8 +9,8 @@
 1. Une carte en plastique, bois ou ce que vous voulez. Vous pouvez imprimer le modele STL fournit dans le dossier STL.
 Le format est de 85 x 55mm.
 2. Un etiquette NFC-Tag 215 programmable (vous pouvez trouver ca sur amazon facilement)
-3. L'application NFCTool disponible sur iOS et Android (https://www.wakdev.com/)
-4. Un hebergement web pour heberger votre VCard numerique
+3. L'application NFCTool disponible sur iOS et Android -> https://www.wakdev.com/
+4. Un hebergement web pour heberger votre VCard numerique ou vous pouvez utiliser le site https://www.vcard.link/card
 
 ### Pas à pas
 
@@ -54,8 +54,8 @@ J'ai choisi de faire une page html de base (blocs/bootstap/jquery), mais vous po
 1. A card in plastic or wood or what you want. You can print the STL model provided in the STL folder.
 The size is 85 x 55mm.
 2. A programmable NFC-Tag 215 (you can find this on amazon easily)
-3. The NFCTool application available on iOS and Android (https://www.wakdev.com/)
-4. A web hosting to host your digital VCard
+3. The NFCTool application available on iOS and Android -> https://www.wakdev.com/
+4. A web hosting to host your digital VCard or you can use https://www.vcard.link/card
 
 ### Step by step
 
