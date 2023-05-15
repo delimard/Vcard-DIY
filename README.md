@@ -22,7 +22,7 @@ Dans le fichier index.php configurez :
 - le nom de votre page
 
 Modifiez yourpage.html par le nom choisi, puis ouvrez cette page avec un editeur de code
-- Ligne 61: ``var photo`` -> la variable contenant votre photo au format base64. Choisissez la photo qui apparaitra sur votre vcard. Utilisez un encodeur base64 et copiez le code dans cette variable. (https://www.base64-image.de). Attention: le format d'image doit etre de type JPG et il est conseillé d'utiliser une dimensions de 300x300 pixel pour plus de lisiblité.
+- Ligne 61 : ``var photo`` -> la variable contenant votre photo au format base64. Choisissez la photo qui apparaitra sur votre vcard. Utilisez un encodeur base64 et copiez le code dans cette variable. (https://www.base64-image.de). Attention: le format d'image doit etre de type JPG et il est conseillé d'utiliser une dimensions de 300x300 pixel pour plus de lisiblité.
 - ligne 85 à 101 : Editez les variables à votre convenance
 
 Téléchargez les fichiers du dossier www/ sur votre server web
@@ -37,7 +37,7 @@ Choisir ecrire / ajouter un nouvelle enregistrement / enregistrer URL
 Entrez l'url que vous avez configuré a l'étape precedente.
 Approche votre carte NFC, et cliquez sur Ecrire
 
-Maintenant, prenez voytre smartphone et verifier que le fonctionnement de votre carte.
+Maintenant, prenez votre smartphone et verifier que le fonctionnement de votre carte.
 
 ### Personnalisation
 
